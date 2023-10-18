@@ -24,14 +24,14 @@ global.location = "Africa, Egypt, Cairo" //ur location
 //bot bomdy 
 global.ownernomer = "201098906252" //ur number
 global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
+global.botname = 'قوت' //ur bot name
+global.linkz = "tiktok : 6kcp " //your theme url which will be displayed on whatsapp
+global.websitex = "Telegram : @UUU5M " //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
+global.packname = "الدكتاتور الارستقراطي " //ur sticker watermark packname
 global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.wm = "قوت" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -40,16 +40,16 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'تم يروحي✨',
-    admin: '『 الامر دا لادمن بس! 』',
-    botAdmin: '『 ارفع البوت ادمن الاول 』',
+    success: 'تم يحب',
+    admin: '『 لاتفلها الأمر للادمنيه 』',
+    botAdmin: '『 ارفع البوت مشرف طيب! 』',
     premime: '『 ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار 』',
-    owner: '『 الميزه دي للمطور بس! 』',
-    group: '『 الميزه دي للجروبات بس! 』',
-    private: '『 الميزه دي في الخاص بس! 』',
-    bot: '『 الميزه دي للبوت بس! 』',
-    wait: '『 استني شويه... 』',
-    linkm: '『 فين الرابط? 』',
+    owner: '『 لاتسوي خوي الميزه للمطور بس 』',
+    group: '『 الميزه للقروبات  』',
+    private: '『 الميزه بالخاص مو هنا 』',
+    bot: '『 الميزه هذي للبوت مو لك 』',
+    wait: '『 خلك صبور… 』',
+    linkm: '『 وين الرابط تسوقها؟ 』',
     endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 12 ساعة',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
 }
